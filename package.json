@@ -1,0 +1,12 @@
+{
+  "name": "stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/service.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
